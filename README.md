@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luistellezsirocco&label=Profile%20views&color=0e75b6&style=flat" alt="luistellezsirocco" /> </p>
 
-I am a passionate Python developer and data scientist from Spain, currently working at [Sirocco Energy](https://www.sirocco.energy/). I am skilled in various machine learning techniques, data analysis, and data visualization. My expertise allows me to leverage the power of data and Python to find innovative solutions for the renewable energy sector.
+I have experience and knowledge in various machine learning techniques, data analysis, and data visualization. Through utilizing these skills and Python, I aim to contribute to innovative solutions for the renewable energy sector.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
