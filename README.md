@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Luis</h1>
+<h1 align="center">Hi there 👋, I'm Luis</h1>
 <h3 align="center">Python Developer and Data Scientist at <a href="https://www.sirocco.energy/">Sirocco Energy</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luistellezsirocco&label=Profile%20views&color=0e75b6&style=flat" alt="luistellezsirocco" /> </p>
 
 I have experience and knowledge in various machine learning techniques, data analysis, and data visualization. Through utilizing these skills and Python, I aim to contribute to innovative solutions for the renewable energy sector.
+
+My personal GitHub account: [Luis Téllez](https://github.com/ltr385/ltr385)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
